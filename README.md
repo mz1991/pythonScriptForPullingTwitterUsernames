@@ -4,7 +4,7 @@ This python script will  automatically extract all the usernames from a .html do
 
 Included in this repo is:
 
-1) the python script itself. Written under Python 2.7.6. WARNING: May not work under Python 3, I have NOT tested it. (Feel free to fork/modify as needed.)
+1) Edited to work with Python3. Tested with Python 3.5.2
 2) a sample .html file, of Twitter accounts associated with the search "lingustics"
 3) sample output, based on the given .html file
 
